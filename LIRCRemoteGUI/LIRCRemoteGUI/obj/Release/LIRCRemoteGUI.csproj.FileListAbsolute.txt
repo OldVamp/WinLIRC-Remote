@@ -1,0 +1,10 @@
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Release\LIRCRemoteGUI.exe.config
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Release\LIRCRemoteGUI.exe
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Release\LIRCRemoteGUI.pdb
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Release\LIRCRemoteGUI.Form1.resources
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Release\LIRCRemoteGUI.Properties.Resources.resources
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Release\LIRCRemoteGUI.csproj.GenerateResource.Cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Release\LIRCRemoteGUI.csproj.CoreCompileInputs.cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Release\LIRCRemoteGUI.exe
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Release\LIRCRemoteGUI.pdb
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Release\LIRCRemoteGUI.csprojResolveAssemblyReference.cache

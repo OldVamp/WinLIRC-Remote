@@ -1,0 +1,1 @@
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\LIRCRemoteGUIXP\LIRCRemoteGUI.exe.config

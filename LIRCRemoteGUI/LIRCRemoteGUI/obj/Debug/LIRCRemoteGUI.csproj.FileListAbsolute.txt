@@ -1,0 +1,19 @@
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Debug\LIRCRemoteGUI.exe.config
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Debug\LIRCRemoteGUI.exe
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Debug\LIRCRemoteGUI.pdb
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.Form1.resources
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.Properties.Resources.resources
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.csproj.GenerateResource.Cache
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.exe
+C:\Program Files (x86)\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.pdb
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Debug\LIRCRemoteGUI.exe.config
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Debug\LIRCRemoteGUI.exe
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\bin\Debug\LIRCRemoteGUI.pdb
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.csprojResolveAssemblyReference.cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.Form1.resources
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.Properties.Resources.resources
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.csproj.GenerateResource.Cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.csproj.CoreCompileInputs.cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.exe
+C:\1Stuff\Programming\WinLIRC\c sharp remote\LIRCRemoteGUI\LIRCRemoteGUI\obj\Debug\LIRCRemoteGUI.pdb
