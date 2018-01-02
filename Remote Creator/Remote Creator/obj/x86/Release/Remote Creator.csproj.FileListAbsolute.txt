@@ -1,0 +1,10 @@
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Release\Remote Creator.exe.config
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Release\Remote Creator.exe
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Release\Remote Creator.pdb
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Release\Remote Creator.csprojResolveAssemblyReference.cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Release\Remote_Creator.Form1.resources
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Release\Remote_Creator.Properties.Resources.resources
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Release\Remote Creator.csproj.GenerateResource.Cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Release\Remote Creator.csproj.CoreCompileInputs.cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Release\Remote Creator.exe
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Release\Remote Creator.pdb

@@ -1,0 +1,19 @@
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Debug\Remote Creator.exe
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Debug\Remote Creator.pdb
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote_Creator.Properties.Resources.resources
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote Creator.exe
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote Creator.pdb
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote_Creator.Form1.resources
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote Creator.exe
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote Creator.pdb
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Debug\Remote Creator.exe
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Debug\Remote Creator.pdb
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote Creator.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote_Creator.Form1.resources
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote_Creator.Properties.Resources.resources
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\obj\x86\Debug\Remote Creator.csproj.GenerateResource.Cache
+C:\Program Files (x86)\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Debug\Remote Creator.exe.config
+C:\1Stuff\Programming\WinLIRC\c sharp remote\Remote Creator\Remote Creator\bin\Debug\Remote Creator.exe.config
