@@ -1,4 +1,4 @@
-# WinLIRC-Remote
+# WinLIRC Remote
 Remote Control GUI for WinLIRC
 
 # Remote Creator
