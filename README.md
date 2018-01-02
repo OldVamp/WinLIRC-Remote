@@ -21,6 +21,8 @@ http://winlirc.sourceforge.net/
 
 # Screenshots
 
+![winlirc](https://github.com/OldVamp/WinLIRC-Remote/blob/master/winlirc.png?raw=true)
+
 ![create](https://github.com/OldVamp/WinLIRC-Remote/blob/master/creator.png?raw=true)
 
 ![config](https://github.com/OldVamp/WinLIRC-Remote/blob/master/config.png?raw=true)
